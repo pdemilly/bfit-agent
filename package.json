@@ -1,0 +1,19 @@
+{
+  "name": "bfit-guest-tool",
+  "version": "1.0.0",
+  "description": "Butterfly IT Guest Tool for Linux/Windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdemilly/bfit-guest-tool.git"
+  },
+  "author": "Pascal DeMilly <pascal@mantra-soft.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdemilly/bfit-guest-tool/issues"
+  },
+  "homepage": "https://github.com/pdemilly/bfit-guest-tool#readme"
+}
